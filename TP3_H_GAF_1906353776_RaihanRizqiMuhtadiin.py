@@ -22,8 +22,6 @@ panduan_prog = """\tPanduan daftar perintah:
 \tSTAT\t\t Menampilkan jumlah total warisan budaya
 \tSTATTIPE\t Menampilkan jumlah warisan budaya per tipe dari terbanyak ke tersedikit
 \tSTATPROV\t Menampilkan jumlah warisan budaya per provinsi dari terbanyak ke tersedikit
-\tBONUS1\t Menuju ke link bonus features 1
-\tBONUS2\t Menuju ke link bonus features 2
 \tBERSIHKAN\t Membersihkan CLI
 \tKELUAR\t\t Keluar dari program\n"""
 
