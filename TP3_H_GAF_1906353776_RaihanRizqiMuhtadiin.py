@@ -1,3 +1,10 @@
+"""
+Author: Raihan Rizqi Muhtadiin (raihanrizqi91@ui.ac.id)
+Co-author: (credited)
+
+Last update: 18 November 2019
+"""
+
 # Menyiapkan modul-modul bawaan Python untuk digunakan dalam program ini.
 import csv
 import os
